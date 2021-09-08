@@ -1,0 +1,4 @@
+Ваш Ключ: 4
+Ваш алфавит: a b c d e f g h i j k l m n o p q r s t u v w x y z
+Ваш текст: your ass has some problems
+Ваш зашифрованный текст: csyv eww lew wsqi tvsfpiqw
